@@ -1,7 +1,7 @@
 # Socket.io를 이용한 Chat App
 
 ### 01. 프로젝트 목적
->web socket에 대한 이해와 http 프로토콜, ws 프로토콜의 차이를 학습
+>Web socket에 대한 이해와 http 프로토콜, ws 프로토콜의 차이를 학습
 >
 >Express와 web socket 모듈 연동에 대한 학습
 
