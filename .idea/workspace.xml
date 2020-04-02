@@ -1,12 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc103b12-335c-4c65-ace1-ca9eab3f7482" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TIL/.idea/TIL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TIL/front-end/react/Redux.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/blog_mern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_clone/.idea/crm_clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/.idea/crm_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/client/src/components/Customer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/routes/api/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/.idea/develop project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/.idea/delivery-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/config/passport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/validation/isEmpty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/validation/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../develop project/delivery-service/validation/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix_clone-12d3a5f307d8efcba74f51edb2ebbcffdb64de77/.idea/netflix_clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_clone/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_clone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_clone/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_clone/.idea/news_clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news_clone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/socialBlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../김두완/개발자 면접 질문정리.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../김두완/김두완 증명사진.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../김두완/김두완_이력서.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../김두완/리노스 자기소개서.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZxmSC5Dq8sI30uFSrWB76UmLJf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc103b12-335c-4c65-ace1-ca9eab3f7482" name="Default Changelist" comment="" />
+      <created>1585789117429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585789117429</updated>
+      <workItem from="1585789124393" duration="563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
