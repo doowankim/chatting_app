@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dc103b12-335c-4c65-ace1-ca9eab3f7482" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/isEmpty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation/register.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TIL/.idea/TIL.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TIL/front-end/react/Redux.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/.env" afterDir="false" />
@@ -56,10 +59,10 @@
       <change afterPath="$PROJECT_DIR$/../김두완/김두완_이력서.doc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../김두완/리노스 자기소개서.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585789117429</updated>
-      <workItem from="1585789124393" duration="5696000" />
+      <workItem from="1585789124393" duration="6432000" />
     </task>
     <servers />
   </component>

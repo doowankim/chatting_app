@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
+const passport = require('passport');
 const dotenv = require('dotenv');
 dotenv.config();
 
@@ -18,6 +19,8 @@ mongoose.connect(process.env.MONGO_URI, {useNewUrlParser: true, useUnifiedTopolo
 app.use(morgan('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
+app.use(passport.intialize());
+require('./config/passport')(passport);
 
 app.use('/chat', chatRoutes);
 app.use('/room', roomRoutes);
